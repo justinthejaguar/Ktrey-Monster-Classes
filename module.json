@@ -1,0 +1,38 @@
+{
+  "name": "ktrey-monster-classes",
+  "title": "Ktrey Monster Class Options",
+  "description": "This is a compendium which incorporates the Monster Class Options created by ktrey for play with B/X games. Please look at his excellent work on tables at blog.d4caltrops.com/",
+  "author": "JustintheJaguar",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "9",
+  "packs": [
+    {
+      "name": "items",
+      "label": "Monster Class Abilities",
+      "path": "packs/items.db",
+      "entity": "Item",
+      "type": "Item",
+      "module": "ktrey-monster-classes"
+    },
+    {
+      "name": "items",
+      "label": "Monster Class Items",
+      "path": "packs/items.db",
+      "entity": "Item",
+      "type": "Item",
+      "module": "ktrey-monster-classes"
+    },
+    {
+      "name": "journalentries",
+      "label": "Monster Class Details",
+      "path": "packs/journalentries.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry",
+      "module": "ktrey-monster-classes"
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
