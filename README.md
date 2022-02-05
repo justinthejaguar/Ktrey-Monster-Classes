@@ -4,7 +4,7 @@ This is a Foundry VTT compendium which incorporates the Monster Class Options [M
 Classes Included:
 Arenea, Chameleon Man, Eye Tyrant, Flutterling, Gnoll, Harpy, Living Statue, Lizardman, Phanaton, Rock Man, and Tortoisefolk
 
-Each have their own abilities and journal entries for progression contained.
+Each has its own abilities and journal entry for progression contained.
 
 For any questions on the module reach out on Discord to: Jaguar#8265
 
