@@ -1,51 +1,49 @@
 {
-  "name": "ktrey-monster-classes",
   "title": "Ktrey Monster Class Options",
   "description": "This is a compendium which incorporates the Monster Class Options created by ktrey for play with B/X games. Please look at his excellent work on tables at blog.d4caltrops.com/",
-  "author": "JustintheJaguar",
-  "version": "1.0",
-  "minimumCoreVersion": "0.5.5",
-  "compatibleCoreVersion": "10",
+  "version": "10.285.3",
   "compatibility": {
-      "minimum": "10",
-      "verified": "10.285",
-      "maximum": "10"
-    },
-    "authors": [
-      {
-        "name": "JustintheJaguar"
-      }
-    ],
+    "minimum": "10",
+    "verified": "10.288",
+    "maximum": "10"
+  },
+  "authors": [
+    {
+      "name": "JustintheJaguar",
+      "flags": {}
+    }
+  ],
   "packs": [
     {
       "name": "items",
       "label": "Monster Class Abilities",
       "path": "packs/items.db",
-      "entity": "Item",
-      "system": ["ose"],
+      "system": "ose",
       "type": "Item",
-      "module": "ktrey-monster-classes"
+      "private": false,
+      "flags": {}
     },
     {
       "name": "items",
       "label": "Monster Class Items",
       "path": "packs/items.db",
-      "entity": "Item",
-      "system": ["ose"],
+      "system": "ose",
       "type": "Item",
-      "module": "ktrey-monster-classes"
+      "private": false,
+      "flags": {}
     },
     {
       "name": "journalentries",
       "label": "Monster Class Details",
       "path": "packs/journalentries.db",
-      "entity": "JournalEntry",
-      "system": ["ose"],
+      "system": "ose",
       "type": "JournalEntry",
-      "module": "ktrey-monster-classes"
+      "private": false,
+      "flags": {}
     }
   ],
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/justinthejaguar/Ktrey-Monster-Classes",
+  "manifest": "https://github.com/justinthejaguar/Ktrey-Monster-Classes/releases/latest/download/module.json",
+  "download": "https://github.com/justinthejaguar/Ktrey-Monster-Classes/releases/download/10.285.3/module.zip",
+  "id": "ktrey-monster-classes"
 }
