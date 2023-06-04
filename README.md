@@ -8,8 +8,6 @@ Classes Included:
 Arenea, Chameleon Man, Eye Tyrant, Flutterling, Gnoll, Harpy, Living Statue, Lizardman, Phanaton, Rock Man, and Tortoisefolk
 
 Each has its own abilities and journal entry for progression contained.
-Compendium Folders is now a requirement for this module: https://github.com/earlSt1/vtt-compendium-folders
-
 
 For any questions on the module reach out on Discord to: Jaguar#8265
 
