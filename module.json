@@ -1,11 +1,11 @@
 {
   "title": "Ktrey Monster Class Options",
   "description": "This is a compendium which incorporates the Monster Class Options created by ktrey for play with B/X games. Please look at his excellent work on tables at blog.d4caltrops.com/",
-  "version": "10.285.3",
+  "version": "11",
   "compatibility": {
     "minimum": "10",
-    "verified": "10.288",
-    "maximum": "10"
+    "verified": "11.300",
+    "maximum": "11"
   },
   "authors": [
     {
@@ -24,15 +24,6 @@
       "flags": {}
     },
     {
-      "name": "items",
-      "label": "Monster Class Items",
-      "path": "packs/items.db",
-      "system": "ose",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
       "name": "journalentries",
       "label": "Monster Class Details",
       "path": "packs/journalentries.db",
@@ -42,8 +33,8 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/justinthejaguar/Ktrey-Monster-Classes",
-  "manifest": "https://github.com/justinthejaguar/Ktrey-Monster-Classes/releases/latest/download/module.json",
-  "download": "https://github.com/justinthejaguar/Ktrey-Monster-Classes/releases/download/10.285.3/module.zip",
+  "url": "",
+  "manifest": "",
+  "download": "",
   "id": "ktrey-monster-classes"
 }
